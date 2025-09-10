@@ -6,3 +6,10 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# 语言 & 时区
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# 让主题去 _data/zh-CN.yml 找词
+locale: zh-CN

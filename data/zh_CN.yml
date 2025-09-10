@@ -1,0 +1,15 @@
+# 主题固定词
+nav:
+  home: 首页
+  downloads: 资料下载
+  share-form: 我要分享
+  last_modified: 最后更新
+
+footer:
+  copyright: >-
+    本站内容采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a> 许可
+
+# 日期格式
+date_formats:
+  default: "%Y-%m-%d"
+  month_day: "%m月%d日"
