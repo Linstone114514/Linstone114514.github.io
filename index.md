@@ -1,35 +1,19 @@
 ---
-title: Home
+title: 前言-首页
 layout: home
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+前言
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+欢迎来到东北林业大学转专业信息分享站！
 
-More specifically, the created site:
+在这里，我们想把最真实的声音送给正处于人生岔路口的你——也许你在第二学期，也许已走到第四学期；也许心里早已翻江倒海，却仍被“要不要转”反复拉扯；也许你已经攥紧拳头，却担心孤军奋战。先请你深呼吸：犹豫不是懦弱，笃定也并非天生，它们都只是成长发出的不同频率的信号。我们搭建这个网站，就是想把这些信号翻译成可以彼此听见的语言。
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+如果你仍在摇摆，请把这里当成“减速带”。 转专业不是一场非赢即赌的跳跃，而是一段需要把“喜欢”与“适合”放在同一杆秤上反复校准的旅程。你可以先阅读学长学姐的“犹豫史”——有人因为一门选修课突然看见新世界，也有人直到提交表格前夜还在自我怀疑。你会发现，不确定感并不会因为别人一句“follow your heart”就消失，但它会在信息、对比、自我对话中逐渐显影：你真正怕的是失去原专业的“安全感”，还是担心新专业并非想象的那束光？我们整理了各专业的课程地图、学分折抵方案、历年录取比例、就业与深造数据，只为让你把“未知”拆成可量化的格子，再决定要不要迈出那一步。请记住，晚一点决策并不等于错失，真正遗憾的是让恐惧代替自己做选择。
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+如果你已经下定决心，请把这里当成“补给站”。 你需要的不再是“要不要”，而是“怎么跑”。我们按时间轴梳理了第二、第四学期转专业的全流程：从绩点算法、先修课补齐，到面试真题、作品集攻略；从如何与原学院辅导员沟通，到如何在新学院快速找到科研与实习入口。每一环节都有“过来人”把暗坑标成红灯，也把捷径画成绿线。更关键的是，我们设置了“同行者”板块——提交申请后，你会被匹配到同年转往同一目标的匿名小组，彼此打卡进度、互换资源，直到新学期开学。你仍会焦虑，但不再孤单；仍会跌倒，但有人伸手。请相信，一旦方向笃定，所有努力都会累计成“加速度”，而非“内耗”。
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+愿这个网站成为你在第二学期、第四学期，乃至更长远人生里，把犹豫转化为笃定、把笃定兑现成未来的中转站。信息已经铺好，故事正在发生，下一笔，由你书写。
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+——东北林业大学转专业信息分享站 第一任站主 Linstone
