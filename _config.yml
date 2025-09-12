@@ -2,7 +2,7 @@ title: 东北林业大学转专业经验分享站
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://linstone114514.github.io
 
 aux_links:
   本科生院链接: https://bksy.nefu.edu.cn/
@@ -13,3 +13,10 @@ timezone: Asia/Shanghai
 
 # 让主题去 _data/zh-CN.yml 找词
 locale: zh-CN
+
+# 版权信息（想换行用 <br>）
+copyright: >-
+  &copy; 2025 东北林业大学转专业经验分享站.
+  本站内容采用
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">CC BY-NC-SA 4.0</a>
+  许可，转载须署名、非商用、相同方式共享。

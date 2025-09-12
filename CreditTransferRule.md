@@ -1,7 +1,7 @@
 ---
 title: 各学院学分置换办法
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 # 学分置换办法
 
